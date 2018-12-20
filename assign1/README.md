@@ -2,14 +2,6 @@
 
 The objective is to implement a Storage Manager that is capable of reading and writing blocks from a file on a disk from and to the memory.
 
-Team: 
-	
-Daniel Rauch	<drauch@hawk.iit.edu>
-
-Akshay Sunku	<asunku@hawk.iit.edu>
-
-Adarsh Mathad VijayaKumar	<avijayakumar@hawk.iit.edu>
-
 ### To make/compile files...
 ```
 make
