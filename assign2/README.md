@@ -2,13 +2,6 @@
 
 The objective is to implement a buffer manager that manages a buffer of blocks in memory including reading/flushing to disk and block replacement (flushing blocks to disk to make space for reading new blocks from disk)
 
-Team:
-
-Adarsh Mathad VijayaKumar	<avijayakumar@hawk.iit.edu>
-
-Akshay Sunku	<asunku@hawk.iit.edu>
-
-
 ### To make/compile files...
 ```
 make
